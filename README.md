@@ -1,64 +1,86 @@
-# 👋 Hi there, I'm Ananthakrishnan M G
+# Hi there 👋 I'm Ananthakrishnan M G
 
-🎯 **Linux Server Administrator | System Administrator**  
-📍 Thrissur, Kerala, India  
-📫 Reach me at: [ananthumg2017@gmail.com](mailto:ananthumg2017@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ananthakrishnan-m-g-84a495333)
+<div align="center">
+
+Cloud Engineer | Linux Administrator | AWS & DevOps Enthusiast
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I’m a passionate and hands-on **Linux Server Administrator** with strong expertise in managing production environments, web hosting platforms, and cloud services. I love working with open-source tools, automating server tasks, optimizing web applications, and building secure hosting infrastructures.
+Passionate Cloud and System Engineer with hands-on experience in:
 
-💡 With real-world experience in **cPanel/WHM**, **WordPress & Magento 2 deployments**, and **server hardening**, I aim to bring clarity and stability to systems I manage.
+- AWS Cloud Infrastructure
+- Linux Server Administration
+- High Availability Architectures
+- WordPress Hosting
+- Networking & Security
+- DevOps Fundamentals
 
----
-
-## 🧠 Technical Skills
-
-- 🐧 **Linux System Administration** – Installation, configuration, and maintenance of Linux environments.
-- 🌐 **Web Servers** – Apache2 & NGINX with custom virtual host and multi-site setup.
-- 🔐 **Server Security** – Firewall (CSF), SSH hardening, SSL automation.
-- 📦 **Backup & Recovery** – Full/Partial backups, WHM restore.
-- 🌍 **CMS Deployment** – WordPress & Magento 2 with PHP, DB, and SSL config.
-- 📊 **Networking** – TCP/IP, DNS, DHCP, FTP, Firewall basics.
-- 🛠️ **Tools & Platforms** – cPanel/WHM, AWS EC2, S3, IAM, Subnetting, VPS.
-- 📝 **Text Editors** – Vim & Nano for efficient script and config editing.
-- 💽 **Disk Management** – Partitioning, LVM, and filesystem handling.
-- 🤝 **Soft Skills** – Quick learner, Team player, Time management, Communication.
+I enjoy building scalable and secure cloud environments using AWS services and Linux-based systems.
 
 ---
 
-## 🧳 Experience
+## ☁️ Cloud & DevOps Skills
 
-### 🔧 **Server Administrator Intern @ HashRoot**  
-📍 Kochi, Kerala | 🗓️ May 2025 – Present  
-- cPanel/WHM setup, site migration, AutoSSL, reseller creation  
-- Installed and configured WordPress & Magento 2  
-- Hardened server security and automated SSL  
-- Handled WHM backups and restore operations
+### AWS
+EC2 • VPC • RDS • EFS • ALB • Auto Scaling • Route 53 • CloudFront • IAM • SSM • WAF • AWS Backup • ACM • S3
 
-### 🌐 **Network Support Engineer @ Modwin Networks Pvt. Ltd.**  
-📍 Thrissur, Kerala | 🗓️ Oct 2023 – Dec 2024  
-- Resident Engineer at South Indian Bank HQ  
-- Network issue troubleshooting, internet monitoring/reporting
+### Linux & Hosting
+Ubuntu • AlmaLinux • Apache • NGINX • cPanel • WHM • Plesk
 
-### 🔌 **Internship in Networking @ Synnefo Solutions**  
-📍 Kochi, Kerala | 🗓️ Sep 2022 – May 2023  
-- Learned core networking and hardware principles  
-- Basic Linux & Windows server management  
-- Hands-on with AWS EC2, S3, IAM, and subnet security groups
+### Networking
+TCP/IP • DNS • DHCP • Routing • VPN • Subnetting • AWS Networking
+
+### Monitoring & Security
+CloudWatch • SSH Hardening • SSL/TLS • Firewalls • Backup & Recovery
 
 ---
 
-## 📫 Let's Connect
+## 📌 Featured Project
 
-- 💬 Mail me: [ananthumg2017@gmail.com](mailto:ananthumg2017@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/ananthakrishnan-m-g-84a495333](https://www.linkedin.com/in/ananthakrishnan-m-g-84a495333)
+# High Availability WordPress Deployment on AWS
+
+### Architecture Highlights
+
+✅ Custom VPC with Public & Private Subnets  
+✅ Highly Available WordPress Deployment  
+✅ Application Load Balancer (ALB)  
+✅ Auto Scaling Group (ASG)  
+✅ Shared Storage using Amazon EFS  
+✅ RDS MySQL Database in Private Subnets  
+✅ SSL using ACM  
+✅ Route53 DNS Management  
+✅ Static Website Hosting with S3 + CloudFront  
+✅ Secure EC2 Access using AWS SSM  
+✅ Automated Backup using AWS Backup
+
+🔗 Project Repository:
+[aws-high-availability-wordpress](https://github.com/YOUR_USERNAME/aws-high-availability-wordpress)
 
 ---
 
-### ⚡ Fun Fact
-> I love digging into server logs, troubleshooting obscure errors, and optimizing configurations — like solving puzzles every day!
+## 🛠️ Currently Learning
 
+- Kubernetes
+- CI/CD Pipelines
+- Terraform
+- Docker
+- Infrastructure as Code (IaC)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: ADD_LINKEDIN
+- Email: ananthu.mg.careers@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
