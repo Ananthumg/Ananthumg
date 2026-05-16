@@ -10,7 +10,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ananthakrishnan-m-g-84a495333)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananthu.mg.careers@gmail.com)
 [![Phone](https://img.shields.io/badge/+91%207356706501-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917356706501)
 [![Location](https://img.shields.io/badge/Thrissur%2C%20Kerala-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
