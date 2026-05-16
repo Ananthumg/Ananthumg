@@ -82,7 +82,7 @@ Cloud and System Engineer with hands-on experience building **production-grade A
 
 > Multi-AZ, auto-scaling, SSL-secured WordPress deployment with CloudFront static site — built entirely from scratch using 11 AWS services.
 
-[![🔗 View Full Project](https://img.shields.io/badge/🔗%20View%20Full%20Project%20%26%20Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/aws-ha-wordpress-deployment)
+[![🔗 View Full Project]([https://img.shields.io/badge/🔗%20View%20Full%20Project%20%26%20Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/aws-ha-wordpress-deployment](https://github.com/Ananthumg/aws-ha-wordpress-deployment/blob/c22dea69311e30a77c2d07b7b18d54ffb112d7df/README.md))
 
 **Tech:** `VPC` `EC2` `EFS` `RDS` `ALB` `ASG` `ACM` `SSM` `S3` `CloudFront` `Route53`
 
