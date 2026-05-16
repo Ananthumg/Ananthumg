@@ -108,9 +108,9 @@ Cloud and System Engineer with hands-on experience building **production-grade A
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ananthumg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananthumg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&text_color=c9d1d9)
 
 </div>
 
@@ -126,7 +126,7 @@ Cloud and System Engineer with hands-on experience building **production-grade A
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=FF9900&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Ananthumg&color=FF9900&style=flat-square&label=Profile+Views)
 
 *"Build things. Break things. Fix things. Repeat."*
 
